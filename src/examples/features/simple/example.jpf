@@ -31,5 +31,3 @@ jdart.configs.zoo.constraints=\
 jdart.configs.zoo.exploration.initial=true
 jdart.configs.zoo.exploration.suspend=*.zoo_sub(*
 
-jdart.tree.json.print=true
-jdart.tree.json.dir=.
